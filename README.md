@@ -10,7 +10,7 @@ Matomo and/or Piwick Pro.
 - 📫 Feel free to contact me by e-mail jcc@jenschrchristensen.com
 - <a href="https://www.linkedin.com/in/jenschrchristensen/">LinkedIN Profile</a>
 - <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop</a>
-- ⚡ Fun fact: I have written the "<a href=""></a>" - tag over 100.000 times
+- ⚡ Fun fact: I have written the "a href=" - tag over 100.000 times
 
 <!---
 jenschrnet/jenschrnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
