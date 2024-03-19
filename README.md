@@ -9,7 +9,7 @@ Matomo and/or Piwick Pro.
 - There is a special place in my heart for martech and analytics in combination with system and web development. 
 - 📫 Feel free to contact me by e-mail jcc@jenschr.net
 - <a href="https://www.linkedin.com/in/jenschrchristensen/">LinkedIN Profile</a>
-- <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop</a>
+- <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop</a> - <a href="https://www.jenschr.net/">My short CV</a>
 - ⚡ Fun fact: I have written the "a href=" - tag over 100.000 times
 
 <!---
